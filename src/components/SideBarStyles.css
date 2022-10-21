@@ -1,0 +1,115 @@
+.sidebar {
+    position: absolute;
+    background-color: #222;
+    color: #fff;
+    height: 100vh;
+    width: 18%;
+    text-align: center;
+}
+
+.side-content {
+    margin-top: 200px;
+ } 
+
+ .side-content .login  {
+    margin-right: 1rem;
+    padding: 1rem 2rem;
+ }
+
+ /* .side-content .login .btn1{
+    background: transparent;
+    border-radius:10px;
+    background-color: rgb(93, 93, 107);
+    color: #fff;
+    width: 120px;
+    padding: 10px;
+    font-size: 1.3rem;  
+ } */
+
+ .side-content .login .btn2{
+    background: transparent;
+    border-radius:10px;
+    background-color:  rgb(93, 93, 107);
+    color: #fff;
+    width: 120px;
+    padding: 10px;
+ }
+
+ 
+
+ /* .side-content .login .btn2:hover{
+    color: #fff;
+    border-radius:10px; 
+    min-height:30px; 
+    min-width: 80px;
+    transition: 0.3s;
+    background-color: aqua;
+    cursor: pointer;
+ } */
+/* .sidebar .side-content {
+    margin-right: 1rem;
+
+    color: #fff;
+} */
+
+/* .sidebar .side-content li {
+    list-style: none;
+    padding: 1rem 2rem;
+}
+
+.sidebar .side-content li .btn {
+    margin-right: 1rem;
+    color: #fff;
+}*/
+
+
+
+.side-content .login .btn1 {
+    background: transparent;
+    border-radius:10px;
+   
+    color: #fff;
+    width: 120px;
+    padding: 10px;
+
+}
+
+.side-content .login .btn1:hover {
+    transition-duration: 0.5s;
+    background-color: aqua;
+    display: flex;
+}
+
+/* .side-content .login .btn1:hover {
+  background-color: #1e293b;
+  color: #fff;
+}
+
+@media (min-width: 768px) {
+    .side-content .login .btn1 {
+    font-size: 1.125rem;
+    padding: 1rem 2rem;
+  }
+} */
+
+
+/* background-color: #fff;
+border: 0 solid #e2e8f0;
+border-radius: 1.5rem;
+box-sizing: border-box;
+color: #0d172a;
+cursor: pointer;
+display: inline-block;
+font-family: "Basier circle",-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+font-size: 1.1rem;
+font-weight: 600;
+line-height: 1;
+padding: 1rem 1.6rem;
+text-align: center;
+text-decoration: none #0d172a solid;
+text-decoration-thickness: auto;
+transition: all .1s cubic-bezier(.4, 0, .2, 1);
+box-shadow: 0px 1px 2px rgba(166, 175, 195, 0.25);
+user-select: none;
+-webkit-user-select: none;
+touch-action: manipulation; */
