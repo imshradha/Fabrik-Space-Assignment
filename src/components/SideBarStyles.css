@@ -8,89 +8,35 @@
 }
 
 .side-content {
-    margin-top: 200px;
+    margin-top: 250px;
  } 
 
  .side-content .login  {
     margin-right: 1rem;
     padding: 1rem 2rem;
+    margin-bottom: -20px;
  }
 
- /* .side-content .login .btn1{
+ .side-content .login .btn{
     background: transparent;
     border-radius:10px;
-    background-color: rgb(93, 93, 107);
+    text-align: center;
     color: #fff;
     width: 120px;
     padding: 10px;
-    font-size: 1.3rem;  
- } */
-
- .side-content .login .btn2{
-    background: transparent;
-    border-radius:10px;
-    background-color:  rgb(93, 93, 107);
-    color: #fff;
-    width: 120px;
-    padding: 10px;
- }
-
- 
-
- /* .side-content .login .btn2:hover{
-    color: #fff;
-    border-radius:10px; 
-    min-height:30px; 
-    min-width: 80px;
-    transition: 0.3s;
-    background-color: aqua;
+    height: 40px;
     cursor: pointer;
- } */
-/* .sidebar .side-content {
-    margin-right: 1rem;
+    line-height: 1;
 
-    color: #fff;
-} */
+ }
 
-/* .sidebar .side-content li {
-    list-style: none;
-    padding: 1rem 2rem;
-}
-
-.sidebar .side-content li .btn {
-    margin-right: 1rem;
-    color: #fff;
-}*/
-
-
-
-.side-content .login .btn1 {
-    background: transparent;
-    border-radius:10px;
-   
-    color: #fff;
-    width: 120px;
-    padding: 10px;
-
-}
-
-.side-content .login .btn1:hover {
+.side-content .login .btn:hover {
     transition-duration: 0.5s;
-    background-color: aqua;
+    background-color: #333;
     display: flex;
 }
 
-/* .side-content .login .btn1:hover {
-  background-color: #1e293b;
-  color: #fff;
-}
 
-@media (min-width: 768px) {
-    .side-content .login .btn1 {
-    font-size: 1.125rem;
-    padding: 1rem 2rem;
-  }
-} */
 
 
 /* background-color: #fff;
